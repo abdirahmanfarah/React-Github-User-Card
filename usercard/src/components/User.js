@@ -1,12 +1,13 @@
-import React from 'react';
+// import React from 'react';
 
 
-const User = props => {
+// const User = props => {
 
-  return(
-    <div className ="wrapper">
+//   return(
+//     <div
+    
+//     />
         
-    </div>
-  )
-}
-export default User;
+//   )
+// }
+// export default User;
