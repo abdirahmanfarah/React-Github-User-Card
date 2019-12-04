@@ -16,3 +16,17 @@
   border:1px solid white;
   padding:10px;
 }
+
+.followers-container {
+  padding:10px;
+  display:flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.indi {
+  border:1px solid white;
+  padding:20px;
+  border-radius:50px;
+  margin:auto;
+}
